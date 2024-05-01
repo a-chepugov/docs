@@ -1,0 +1,22 @@
+== Полезные ссылки
+
+.На русском
+
+* https://habr.com/ru/companies/sitronics_group/articles/654355/
+* https://guides.hexlet.io/ru/asciidoc/
+* https://www.wikidata.ru-ru.nina.az/AsciiDoc.html
+* http://idoka.ru/blog/posts/awesome-asciidoc/
+* https://docs.suitecrm.com/ru/community/contributing-to-docs/guidelines/
+* https://www.altlinux.org/Asciidoc
+* https://dzen.ru/a/XZYBu7R3vwCuAu9p
+
+.На английском
+
+* https://asciidoctor.org/docs/asciidoc-recommended-practices/
+* https://powerman.name/doc/asciidoc
+* https://www.vogella.com/tutorials/AsciiDoc/article.html
+* https://asciidoc-py.github.io/userguide.html
+
+.Официальная документация
+
+* https://docs.asciidoctor.org/asciidoc/
