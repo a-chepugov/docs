@@ -19,4 +19,4 @@
 
 .Официальная документация
 
-* https://docs.asciidoctor.org/asciidoc/
+* https://docs.asciidoctor.org/asciidoc/latest/
