@@ -1,0 +1,105 @@
+Глаголица
+=========
+
+[cols="2,1,1,5,2,2"]
+|===
+| код    |   |   | название                                       | 16-чный   | 10-чный
+
+| U+2C00 | Ⰰ | А | glagolitic capital letter azu                 l| &#x2C00; l| &#11264;
+| U+2C01 | Ⰱ | Б | glagolitic capital letter buky                l| &#x2C01; l| &#11265;
+| U+2C02 | Ⰲ | В | glagolitic capital letter vede                l| &#x2C02; l| &#11266;
+| U+2C03 | Ⰳ | Г | glagolitic capital letter glagoli             l| &#x2C03; l| &#11267;
+| U+2C04 | Ⰴ | Д | glagolitic capital letter dobro               l| &#x2C04; l| &#11268;
+| U+2C05 | Ⰵ | Е | glagolitic capital letter yestu               l| &#x2C05; l| &#11269;
+| U+2C06 | Ⰶ | Ж | glagolitic capital letter zhivete             l| &#x2C06; l| &#11270;
+| U+2C07 | Ⰷ | Ѕ | glagolitic capital letter dzelo               l| &#x2C07; l| &#11271;
+| U+2C08 | Ⰸ | З | glagolitic capital letter zemlja              l| &#x2C08; l| &#11272;
+| U+2C09 | Ⰹ | І | glagolitic capital letter izhe                l| &#x2C09; l| &#11273;
+| U+2C0A | Ⰺ | І | glagolitic capital letter initial izhe        l| &#x2C0A; l| &#11274;
+| U+2C0B | Ⰻ | И | glagolitic capital letter i                   l| &#x2C0B; l| &#11275;
+| U+2C0C | Ⰼ | Ћ | glagolitic capital letter djervi              l| &#x2C0C; l| &#11276;
+| U+2C0D | Ⰽ | К | glagolitic capital letter kako                l| &#x2C0D; l| &#11277;
+| U+2C0E | Ⰾ | Л | glagolitic capital letter ljudije             l| &#x2C0E; l| &#11278;
+| U+2C0F | Ⰿ | М | glagolitic capital letter myslite             l| &#x2C0F; l| &#11279;
+| U+2C10 | Ⱀ | Н | glagolitic capital letter nashi               l| &#x2C10; l| &#11280;
+| U+2C11 | Ⱁ | О | glagolitic capital letter onu                 l| &#x2C11; l| &#11281;
+| U+2C12 | Ⱂ | П | glagolitic capital letter pokoji              l| &#x2C12; l| &#11282;
+| U+2C13 | Ⱃ | Р | glagolitic capital letter ritsi               l| &#x2C13; l| &#11283;
+| U+2C14 | Ⱄ | С | glagolitic capital letter slovo               l| &#x2C14; l| &#11284;
+| U+2C15 | Ⱅ | Т | glagolitic capital letter tvrido              l| &#x2C15; l| &#11285;
+| U+2C16 | Ⱆ | У | glagolitic capital letter uku                 l| &#x2C16; l| &#11286;
+| U+2C17 | Ⱇ | Ф | glagolitic capital letter fritu               l| &#x2C17; l| &#11287;
+| U+2C18 | Ⱈ | Х | glagolitic capital letter heru                l| &#x2C18; l| &#11288;
+| U+2C19 | Ⱉ | Ѡ | glagolitic capital letter otu                 l| &#x2C19; l| &#11289;
+| U+2C1A | Ⱊ | - | glagolitic capital letter pe                  l| &#x2C1A; l| &#11290;
+| U+2C1B | Ⱋ | Ш | glagolitic capital letter shta                l| &#x2C1B; l| &#11291;
+| U+2C1C | Ⱌ | Ц | glagolitic capital letter tsi                 l| &#x2C1C; l| &#11292;
+| U+2C1D | Ⱍ | Ч | glagolitic capital letter chrivi              l| &#x2C1D; l| &#11293;
+| U+2C1E | Ⱎ | Ш | glagolitic capital letter sha                 l| &#x2C1E; l| &#11294;
+| U+2C1F | Ⱏ | Ъ | glagolitic capital letter yeru                l| &#x2C1F; l| &#11295;
+| U+2C20 | Ⱐ | Ь | glagolitic capital letter yeri                l| &#x2C20; l| &#11296;
+| U+2C21 | Ⱑ | Я | glagolitic capital letter yati                l| &#x2C21; l| &#11297;
+| U+2C22 | Ⱒ | - | glagolitic capital letter spidery ha          l| &#x2C22; l| &#11298;
+| U+2C23 | Ⱓ | Ю | glagolitic capital letter yu                  l| &#x2C23; l| &#11299;
+| U+2C24 | Ⱔ | Ѧ | glagolitic capital letter small yus           l| &#x2C24; l| &#11300;
+| U+2C25 | Ⱕ |   | glagolitic capital letter small yus with tail l| &#x2C25; l| &#11301;
+| U+2C26 | Ⱖ | Ё | glagolitic capital letter yo                  l| &#x2C26; l| &#11302;
+| U+2C27 | Ⱗ | Ѩ | glagolitic capital letter iotated small yus   l| &#x2C27; l| &#11303;
+| U+2C28 | Ⱘ | Ѫ | glagolitic capital letter big yus             l| &#x2C28; l| &#11304;
+| U+2C29 | Ⱙ | Ѭ | glagolitic capital letter iotated big yus     l| &#x2C29; l| &#11305;
+| U+2C2A | Ⱚ | Ѳ | glagolitic capital letter fita                l| &#x2C2A; l| &#11306;
+| U+2C2B | Ⱛ | Ѵ | glagolitic capital letter izhitsa             l| &#x2C2B; l| &#11307;
+| U+2C2C | Ⱜ |   | glagolitic capital letter shtapic             l| &#x2C2C; l| &#11308;
+| U+2C2D | Ⱝ |   | glagolitic capital letter trokutasti a        l| &#x2C2D; l| &#11309;
+| U+2C2E | Ⱞ |   | glagolitic capital letter latinate myslite    l| &#x2C2E; l| &#11310;
+| U+2C2F | Ⱟ |   | glagolitic capital letter caudate chrivi      l| &#x2C2F; l| &#11311;
+|        |   |   |                                                |           |
+| U+2C30 | ⰰ | а | glagolitic small letter azu                   l| &#x2C30; l| &#11312;
+| U+2C31 | ⰱ | б | glagolitic small letter buky                  l| &#x2C31; l| &#11313;
+| U+2C32 | ⰲ | в | glagolitic small letter vede                  l| &#x2C32; l| &#11314;
+| U+2C33 | ⰳ | г | glagolitic small letter glagoli               l| &#x2C33; l| &#11315;
+| U+2C34 | ⰴ | д | glagolitic small letter dobro                 l| &#x2C34; l| &#11316;
+| U+2C35 | ⰵ | е | glagolitic small letter yestu                 l| &#x2C35; l| &#11317;
+| U+2C36 | ⰶ | ж | glagolitic small letter zhivete               l| &#x2C36; l| &#11318;
+| U+2C37 | ⰷ | ѕ | glagolitic small letter dzelo                 l| &#x2C37; l| &#11319;
+| U+2C38 | ⰸ | з | glagolitic small letter zemlja                l| &#x2C38; l| &#11320;
+| U+2C39 | ⰹ | і | glagolitic small letter izhe                  l| &#x2C39; l| &#11321;
+| U+2C3A | ⰺ | і | glagolitic small letter initial izhe          l| &#x2C3A; l| &#11322;
+| U+2C3B | ⰻ | и | glagolitic small letter i                     l| &#x2C3B; l| &#11323;
+| U+2C3C | ⰼ | ћ | glagolitic small letter djervi                l| &#x2C3C; l| &#11324;
+| U+2C3D | ⰽ | к | glagolitic small letter kako                  l| &#x2C3D; l| &#11325;
+| U+2C3E | ⰾ | л | glagolitic small letter ljudije               l| &#x2C3E; l| &#11326;
+| U+2C3F | ⰿ | м | glagolitic small letter myslite               l| &#x2C3F; l| &#11327;
+| U+2C40 | ⱀ | н | glagolitic small letter nashi                 l| &#x2C40; l| &#11328;
+| U+2C41 | ⱁ | о | glagolitic small letter onu                   l| &#x2C41; l| &#11329;
+| U+2C42 | ⱂ | п | glagolitic small letter pokoji                l| &#x2C42; l| &#11330;
+| U+2C43 | ⱃ | р | glagolitic small letter ritsi                 l| &#x2C43; l| &#11331;
+| U+2C44 | ⱄ | с | glagolitic small letter slovo                 l| &#x2C44; l| &#11332;
+| U+2C45 | ⱅ | т | glagolitic small letter tvrido                l| &#x2C45; l| &#11333;
+| U+2C46 | ⱆ | у | glagolitic small letter uku                   l| &#x2C46; l| &#11334;
+| U+2C47 | ⱇ | ф | glagolitic small letter fritu                 l| &#x2C47; l| &#11335;
+| U+2C48 | ⱈ | х | glagolitic small letter heru                  l| &#x2C48; l| &#11336;
+| U+2C49 | ⱉ | ѡ | glagolitic small letter otu                   l| &#x2C49; l| &#11337;
+| U+2C4A | ⱊ | - | glagolitic small letter pe                    l| &#x2C4A; l| &#11338;
+| U+2C4B | ⱋ | щ | glagolitic small letter shta                  l| &#x2C4B; l| &#11339;
+| U+2C4C | ⱌ | ц | glagolitic small letter tsi                   l| &#x2C4C; l| &#11340;
+| U+2C4D | ⱍ | ч | glagolitic small letter chrivi                l| &#x2C4D; l| &#11341;
+| U+2C4E | ⱎ | ш | glagolitic small letter sha                   l| &#x2C4E; l| &#11342;
+| U+2C4F | ⱏ | ъ | glagolitic small letter yeru                  l| &#x2C4F; l| &#11343;
+| U+2C50 | ⱐ | ь | glagolitic small letter yeri                  l| &#x2C50; l| &#11344;
+| U+2C51 | ⱑ | я | glagolitic small letter yati                  l| &#x2C51; l| &#11345;
+| U+2C52 | ⱒ | - | glagolitic small letter spidery ha            l| &#x2C52; l| &#11346;
+| U+2C53 | ⱓ | ю | glagolitic small letter yu                    l| &#x2C53; l| &#11347;
+| U+2C54 | ⱔ | ѧ | glagolitic small letter small yus             l| &#x2C54; l| &#11348;
+| U+2C55 | ⱕ |   | glagolitic small letter small yus with tail   l| &#x2C55; l| &#11349;
+| U+2C56 | ⱖ | ё | glagolitic small letter yo                    l| &#x2C56; l| &#11350;
+| U+2C57 | ⱗ | ѩ | glagolitic small letter iotated small yus     l| &#x2C57; l| &#11351;
+| U+2C58 | ⱘ | ѫ | glagolitic small letter big yus               l| &#x2C58; l| &#11352;
+| U+2C59 | ⱙ | ѭ | glagolitic small letter iotated big yus       l| &#x2C59; l| &#11353;
+| U+2C5A | ⱚ | ѳ | glagolitic small letter fita                  l| &#x2C5A; l| &#11354;
+| U+2C5B | ⱛ | ѵ | glagolitic small letter izhitsa               l| &#x2C5B; l| &#11355;
+| U+2C5C | ⱜ |   | glagolitic small letter shtapic               l| &#x2C5C; l| &#11356;
+| U+2C5D | ⱝ |   | glagolitic small letter trokutasti a          l| &#x2C5D; l| &#11357;
+| U+2C5E | ⱞ |   | glagolitic small letter latinate myslite      l| &#x2C5E; l| &#11358;
+| U+2C5F | ⱟ |   | glagolitic small letter caudate chrivi        l| &#x2C5F; l| &#11359;
+|===
